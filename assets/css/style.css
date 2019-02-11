@@ -1,0 +1,26 @@
+.jumbotron {
+  text-align: center;
+  font-size: 30px;
+  background-image: url(https://vignette.wikia.nocookie.net/bejeweled/images/8/86/Ice_Gem-_Bejeweled_Twist.png/revision/latest?cb=20130416201451);
+}
+
+h1 {
+  background-color: black;
+  color: gray;
+}
+
+#rules {
+  text-align: center;
+  background-color: black;
+  color: gray;
+}
+
+#scoreboard {
+  background-color: black;
+  text-align: center;
+  color: gray;
+}
+
+body {
+  background-color: black;
+}
